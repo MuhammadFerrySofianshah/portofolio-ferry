@@ -11,10 +11,10 @@ Website portofolio pribadi yang dirancang untuk memperkenalkan diri, menampilkan
 https://www.youtube.com/watch?v=kEuZjM4SuV0&t=234s
 #### Cara sebelum Upload Ke Infinity
 di terminal ketik:
-'''terminal
+```bash
 npm install
 npm run build
-'''
+```
 ### Link untuk akses .htacces
 https://github.com/saiful-akbar/laravel-htaccess
 

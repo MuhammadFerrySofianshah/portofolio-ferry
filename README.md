@@ -6,3 +6,5 @@ Website portofolio pribadi yang dirancang untuk memperkenalkan diri, menampilkan
  Icon : FatherIcon, Devicon, LucideIcon.
 ### View
 ![Uploading portofolio-web-foto.png…]()
+### Link untuk akses .htacces
+https://github.com/saiful-akbar/laravel-htaccess

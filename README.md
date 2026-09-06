@@ -6,5 +6,7 @@ Website portofolio pribadi yang dirancang untuk memperkenalkan diri, menampilkan
  Icon : FatherIcon, Devicon, LucideIcon.
 ### View
 ![Uploading portofolio-web-foto.png…]()
+### Tutorial Hosting ke InfinityFree
+https://www.youtube.com/watch?v=kEuZjM4SuV0&t=234s
 ### Link untuk akses .htacces
 https://github.com/saiful-akbar/laravel-htaccess

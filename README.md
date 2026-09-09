@@ -11,7 +11,8 @@ Website portofolio pribadi yang dirancang untuk memperkenalkan diri, menampilkan
 ```
 ### 1.3 View
 
-![Uploading portofolio-web-foto.png…]()
+<img width="1424" height="724" alt="Screenshot 2026-09-09 124448" src="https://github.com/user-attachments/assets/cb001c30-e80f-458d-9eba-f6de3f8ee41f" />
+
 
 ####
 ## 2 Tutorial Hosting ke InfinityFree

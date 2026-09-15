@@ -23,12 +23,12 @@
                             <img src="{{ asset('img/logo_mf.png') }}" alt="Logo" class="h-6 w-auto pr-3" />
                         </div>
                         <div class="flex">
-                            <a class="rounded-md font-semibold py-3 text-lg text-[#012464]">Muhammad Ferry Sofianshah</a>
+                            <a class="rounded-md font-semibold py-3 text-lg text-primary">Muhammad Ferry Sofianshah</a>
                         </div>
                     </div>
                     <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                         <a href="https://github.com/MuhammadFerrySofianshah" class="flex items-center gap-2">
-                            <p class="hidden sm:block text-[#012464] font-mono">My GitHub</p>
+                            <p class="hidden sm:block text-primary font-mono">My GitHub</p>
                             <i class="text-4xl devicon-github-original colored"></i>
                         </a>
 
@@ -74,12 +74,12 @@
                 <div
                     class="relative z-10 mx-auto mt-10 w-full max-w-xl lg:mr-30 lg:mx-0">
 
-                    <p class="font-mono text-[#012464]">
+                    <p class="font-mono text-primary">
                         Halo, saya👋
                     </p>
 
                     <h1
-                        class="pb-6 text-4xl font-semibold text-[#012464] sm:text-5xl lg:text-6xl">
+                        class="pb-6 text-4xl font-semibold text-primary sm:text-5xl lg:text-6xl">
                         Muhammad Ferry Sofianshah
                     </h1>
 
@@ -87,7 +87,7 @@
                         Web Developer | Flutter Developer | UI/UX Designer
                     </p>
 
-                    <p class="py-6 text-[#012464]">
+                    <p class="py-6 text-primary">
                         Lulusan Sistem Informasi dengan ketertarikan di bidang
                         pengembangan perangkat lunak, khususnya pengembangan aplikasi
                         Web & Android.
@@ -104,7 +104,7 @@
                             rel="noopener noreferrer">
                             <button
                                 type="button"
-                                class="flex cursor-pointer items-center gap-2 rounded-[5px] bg-[#012464] px-3 py-2.5">
+                                class="flex cursor-pointer items-center gap-2 rounded-[5px] bg-primary px-3 py-2.5">
                                 <i
                                     class="h-5 w-5 text-white"
                                     data-feather="file-text"></i>
@@ -114,20 +114,18 @@
                                 </span>
                             </button>
                         </a>
-
-
                         <!-- Hubungi Saya -->
                         <a
                             href="http://wa.me//6289688120962"
                             target="_blank">
                             <button
                                 type="button"
-                                class="flex cursor-pointer items-center gap-2 rounded-[5px] border-2 border-[#012464] bg-white px-3 py-2.5">
+                                class="flex cursor-pointer items-center gap-2 rounded-[5px] border-2 border-primary bg-white px-3 py-2.5">
                                 <i
-                                    class="h-4 w-4 text-[#012464]"
+                                    class="h-4 w-4 text-primary"
                                     data-feather="send"></i>
 
-                                <span class="text-xs text-[#012464]">
+                                <span class="text-xs text-primary">
                                     Hubungi Saya
                                 </span>
                             </button>
@@ -145,10 +143,10 @@
                             rel="noopener noreferrer">
                             <div class="flex items-center gap-1.5">
                                 <i
-                                    class="h-5 w-5 text-[#012464]"
+                                    class="h-5 w-5 text-primary"
                                     data-feather="phone"></i>
 
-                                <p class="text-xs font-medium text-[#012464]">
+                                <p class="text-xs font-medium text-primary">
                                     Phone
                                 </p>
                             </div>
@@ -160,10 +158,10 @@
                             target="_blank">
                             <div class="flex items-center gap-1.5">
                                 <i
-                                    class="h-5 w-5 text-[#012464]"
+                                    class="h-5 w-5 text-primary"
                                     data-feather="instagram"></i>
 
-                                <p class="text-xs font-medium text-[#012464]">
+                                <p class="text-xs font-medium text-primary">
                                     Instagram
                                 </p>
                             </div>
@@ -176,10 +174,10 @@
                             rel="noopener noreferrer">
                             <div class="flex items-center gap-1.5">
                                 <i
-                                    class="h-5 w-5 text-[#012464]"
+                                    class="h-5 w-5 text-primary"
                                     data-feather="mail"></i>
 
-                                <p class="text-xs font-medium text-[#012464]">
+                                <p class="text-xs font-medium text-primary">
                                     Email
                                 </p>
                             </div>
@@ -191,10 +189,10 @@
                             target="_blank">
                             <div class="flex items-center gap-1.5">
                                 <i
-                                    class="h-5 w-5 text-[#012464]"
+                                    class="h-5 w-5 text-primary"
                                     data-feather="linkedin"></i>
 
-                                <p class="text-xs font-medium text-[#012464]">
+                                <p class="text-xs font-medium text-primary">
                                     LinkedIn
                                 </p>
                             </div>
@@ -247,14 +245,14 @@
                             <div class="flex h-10 w-10 items-center justify-center rounded-full bg-[#EAF1FA]">
                                 <i
                                     data-lucide="code-xml"
-                                    class="h-6 w-auto text-[#012464]"></i>
+                                    class="h-6 w-auto text-primary"></i>
                             </div>
 
                             <div class="flex flex-col items-center text-center">
-                                <h2 class="text-lg font-bold text-[#012464]">
+                                <h2 class="text-lg font-bold text-primary">
                                     5+
                                 </h2>
-                                <p class="text-sm font-medium text-[#012464]">
+                                <p class="text-sm font-medium text-primary">
                                     Project sudah dikerjakan
                                 </p>
                             </div>
@@ -266,14 +264,14 @@
                             <div class="flex h-10 w-10 items-center justify-center rounded-full bg-[#EAF1FA]">
                                 <i
                                     data-lucide="briefcase-business"
-                                    class="h-6 w-auto text-[#012464]"></i>
+                                    class="h-6 w-auto text-primary"></i>
                             </div>
 
                             <div class="flex flex-col items-center text-center">
-                                <h2 class="text-lg font-bold text-[#012464]">
+                                <h2 class="text-lg font-bold text-primary">
                                     2+
                                 </h2>
-                                <p class="text-sm font-medium text-[#012464]">
+                                <p class="text-sm font-medium text-primary">
                                     Pengalaman Kerja
                                 </p>
                             </div>
@@ -285,14 +283,14 @@
                             <div class="flex h-10 w-10 items-center justify-center rounded-full bg-[#EAF1FA]">
                                 <i
                                     data-lucide="graduation-cap"
-                                    class="h-6 w-auto text-[#012464]"></i>
+                                    class="h-6 w-auto text-primary"></i>
                             </div>
 
                             <div class="flex flex-col items-center text-center">
-                                <h2 class="text-lg font-bold text-[#012464]">
+                                <h2 class="text-lg font-bold text-primary">
                                     S1
                                 </h2>
-                                <p class="text-sm font-medium text-[#012464]">
+                                <p class="text-sm font-medium text-primary">
                                     Pendidikan
                                 </p>
                             </div>
@@ -302,14 +300,14 @@
                             <div class="flex h-10 w-10 items-center justify-center rounded-full bg-[#EAF1FA]">
                                 <i
                                     data-lucide="book-open-check"
-                                    class="h-6 w-auto text-[#012464]"></i>
+                                    class="h-6 w-auto text-primary"></i>
                             </div>
 
                             <div class="flex flex-col items-center text-center">
-                                <h2 class="text-lg font-bold text-[#012464]">
+                                <h2 class="text-lg font-bold text-primary">
                                     3.68
                                 </h2>
-                                <p class="text-sm font-medium text-[#012464]">
+                                <p class="text-sm font-medium text-primary">
                                     IPK
                                 </p>
                             </div>
@@ -323,7 +321,7 @@
         <!-- SKILLS -->
         <main class="">
             <div class="text-center">
-                <h1 class="text-[#012464] text-4xl font-mono font-semibold text-center"> Tech Stack</h1>
+                <h1 class="text-primary text-4xl font-mono font-semibold text-center"> Tech Stack</h1>
                 <p class="my-2 text-sm text-gray-500">Technologies and tools I use to build digital products.</p>
             </div>
             <div class="mx-auto max-w-7xl px-4 pb-10 pt-5 sm:px-6 lg:px-8 flex justify-center">
@@ -489,7 +487,7 @@
                                     </dd>
                                 </div>
                                 <div class="flex gap-4">
-                                    <a href="">
+                                    <a href="https://saungbirutenda.wuaze.com/" target="_blank">
                                         <button type="button" class="cursor-pointer inline-flex rounded-md bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:bg-gray-200">
                                             Lihat Project
                                             <i data-lucide="mouse-pointer-2" class="h-5 w-auto"></i>
@@ -549,7 +547,7 @@
                                         </div>
                                     </dd>
                                 </div>
-                                <a href="">
+                                <a href="https://ferry-blogger.wuaze.com/" target="_blank">
                                     <button type="button" class="cursor-pointer inline-flex rounded-md bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:bg-gray-200">
                                         Lihat Project
                                         <i data-lucide="mouse-pointer-2"></i>
@@ -721,7 +719,7 @@
                                     </dd>
                                 </div>
                                 <div class="flex gap-4">
-                                    <a href="">
+                                    <a href="https://ferrysofianshah.wuaze.com/" >
                                         <button type="button" class="cursor-pointer inline-flex rounded-md bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:bg-gray-200">
                                             Lihat Project
                                             <i data-lucide="mouse-pointer-2" class="h-5 w-auto"></i>
@@ -746,7 +744,7 @@
                         src="{{ asset('img/logo_mf.png') }}"
                         alt="Logo"
                         class="h-6 w-auto pr-3" />
-                    <h2 class="text-md font-semibold text-[#012464]">
+                    <h2 class="text-md font-semibold text-primary">
                         Muhammad Ferry Sofianshah
                     </h2>
                 </div>
@@ -756,7 +754,7 @@
                     <a
                         href="https://github.com/MuhammadFerrySofianshah"
                         target="_blank">
-                        <i class="text-3xl text-[#012464] devicon-github-original"></i>
+                        <i class="text-3xl text-primary devicon-github-original"></i>
                     </a>
                     <!-- Phone -->
                     <a
@@ -764,7 +762,7 @@
                         target="_blank"
                         rel="noopener noreferrer">
                         <i
-                            class="h-6 w-6 text-[#012464]"
+                            class="h-6 w-6 text-primary"
                             data-feather="phone"></i>
                     </a>
                     <!-- Instagram -->
@@ -772,7 +770,7 @@
                         href="https://www.instagram.com/mfersyh/"
                         target="_blank">
                         <i
-                            class="h-6 w-6 text-[#012464]"
+                            class="h-6 w-6 text-primary"
                             data-feather="instagram"></i>
                     </a>
                     <!-- Email -->
@@ -780,7 +778,7 @@
                         href="mailto:fsofian27@gmail.com"
                         target="_blank">
                         <i
-                            class="h-6 w-6 text-[#012464]"
+                            class="h-6 w-6 text-primary"
                             data-feather="mail"></i>
                     </a>
                     <!-- LinkedIn -->
@@ -788,14 +786,14 @@
                         href="https://www.linkedin.com/in/muhammad-ferry-sofianshah-a918572a2/"
                         target="_blank">
                         <i
-                            class="h-6 w-6 text-[#012464]"
+                            class="h-6 w-6 text-primary"
                             data-feather="linkedin"></i>
                     </a>
 
                 </div>
             </div>
             <!-- Copyright -->
-            <p class="mt-3 text-center text-xs font-normal text-[#012464] md:mt-0 md:pl-7 md:text-left">
+            <p class="mt-3 text-center text-xs font-normal text-primary md:mt-0 md:pl-7 md:text-left">
                 &copy; Muhammad Ferry Sofianshah. All rights reserved
             </p>
         </footer>
